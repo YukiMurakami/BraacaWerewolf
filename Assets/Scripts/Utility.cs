@@ -3,6 +3,8 @@ using System.Collections;
 
 public class Utility : MonoBehaviour {
 
+	public static NetworkViewID nvID;
+
 	// Use this for initialization
 	void Start () {
 	

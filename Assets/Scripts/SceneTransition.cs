@@ -26,4 +26,8 @@ public class SceneTransition : MonoBehaviour {
 	public void toClient() {
 		SceneManager.LoadScene ("client");
 	}
+
+	public void toOption() {
+		SceneManager.LoadScene ("option");
+	}
 }
